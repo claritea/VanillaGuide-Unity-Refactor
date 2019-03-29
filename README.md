@@ -15,6 +15,7 @@ VanillaGuide aim to cover the hole for an in-game guide for Vanilla WoW. The Add
 Most Recent Updates
 ===================
 ALLIANCE:
+-
 Color coded from 1-30
 Restructed the language used throughout the guide (fixed mis-spelled words, added consistent language, etc.)
 Fixed most small errors in routing from 1-30 on Alliance
