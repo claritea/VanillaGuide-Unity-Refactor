@@ -125,7 +125,7 @@ Table_003_Alliance_12to20 = {
 		--itemCount = 30,
 		items = {
 			[1] = { str = "#VIDEO17-18 Loch Modan" },
-			[2] = { str = "#NPCRun to the top of Loch Modan to the tower at #VIDEO(24,18)                                                             \n#ACCEPT1) Accept  Filthy Paws \n#ACCEPT2) Accept Stormpike's Order", x = 24, y = 18, zone = "Loch Modan" },
+			[2] = { str = "#COORDS**If you didn't accept Filthy Paws and Stormpike's Order when running through Loch Modan earlier (or had to abandon them for quest log space)**:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       \n      1) Run to the top of Loch Modan to the tower at #VIDEO(24,18)                                                             \n      #ACCEPT1) Accept Filthy Paws \n      #ACCEPT2) Accept Stormpike's Order \n#NPCIf you did accept these quests, move on to step 2", x = 24, y = 18, zone = "Loch Modan" },
 			[3] = { str = "#DOQUEST1) Run in the Cave at #VIDEO(35,18) #DOQUESTand do Filthy Paws (boxes are on the ground) \n#TURNIN2) Turn it back in at #VIDEO(24,18)", x = 35, y = 18, zone = "Loch Modan" },
 			[4] = { str = "#NPCIf you're Night Elf, grab the FP at #VIDEO(33,50)", x = 33, y = 50, zone = "Loch Modan" },
 			[5] = { str = "#ACCEPTAccept Ironband's Excavation (bottom floor of the last house on the right (south side of town))" },
